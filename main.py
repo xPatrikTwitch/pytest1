@@ -1,3 +1,2 @@
-print("works!")
-print("works2!")
-print("works3!")
+print("Works!")
+print("LOL!")
