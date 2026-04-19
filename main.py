@@ -1,6 +1,6 @@
 print("Works!")
 print("LOL!")
 print("67")
-print("68")
-print("69")
+print("368")
+print("369")
 print("70")
